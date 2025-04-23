@@ -31,7 +31,7 @@ The primary goal is to segment customers of Sprott Fishing Supplies based on pur
 - SQL queries used for RFM and segment comparisons
 
 ## How to Use
-- View the PowerPoint file for a summary of findings
+- View the PowerPoint file for a summary of findings: https://github.com/huiherman/sas-rfm-customer-segmentation/raw/main/Customer_Segmentation_RFM_HermanHui.pptx
 - Use the SAS and SQL scripts to replicate the RFM analysis
 
 ## Author
